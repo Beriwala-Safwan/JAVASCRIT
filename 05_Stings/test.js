@@ -30,4 +30,3 @@ console.log(url.includes("safwan"));
 
 const r=MyName.split("").reverse().join("")
 console.log(r)
-//console.log(MyName.reverse())
